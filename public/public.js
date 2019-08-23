@@ -1,3 +1,3 @@
-function first() {
-    
+function second() {
+
 }
